@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ej08 {
+public class Ej07 {
     public static void main(String[] arg) {
         Scanner tec = new Scanner(System.in);
         double num1, num2;
