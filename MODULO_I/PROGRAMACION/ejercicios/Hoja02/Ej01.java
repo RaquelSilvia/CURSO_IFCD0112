@@ -11,7 +11,7 @@ public class Ej01 {
         System.out.print("¿Qué cantidad de números ingresarás?: ");
         cantidad = tec.nextInt();
 
-        while (contar <= cantidad) {
+        while (cont <= cantidad) {
             System.out.print("¿cuál es tu número?: ");
             num = tec.nextInt();
             System.out.println(num);

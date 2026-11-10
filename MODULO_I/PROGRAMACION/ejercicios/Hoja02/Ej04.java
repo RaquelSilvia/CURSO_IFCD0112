@@ -14,6 +14,9 @@ public class Ej04 {
             System.out.print("Ingresa número: ");
             num = tec.nextInt();
 
+            if (cont == 1)
+                mayor = num; 
+
             if (num > mayor) {
                 mayor = num;
             } else {

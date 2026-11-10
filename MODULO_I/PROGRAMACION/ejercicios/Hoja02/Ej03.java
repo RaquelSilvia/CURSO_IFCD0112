@@ -9,11 +9,12 @@ public class Ej03 {
 
         System.out.print("¿Qué cantidad de números ingresarás?: ");
         cantidad = tec.nextInt();
-        
-
+       
         while (contador <= cantidad) {
             System.out.print("Ingresa  número: ");
             num = tec.nextInt();
+            // mayor = num;
+            // si sólo se ingresa uno, ese mismo será el mayor, si no, entra en if:
             if (contador == 1)
                 mayor = num;
 

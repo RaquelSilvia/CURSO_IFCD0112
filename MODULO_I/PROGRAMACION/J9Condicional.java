@@ -37,6 +37,7 @@ public class J9Condicional {
             case 6:
                 nombreDia = "Sábado";
                 break;
+        }
     } 
 } 
  

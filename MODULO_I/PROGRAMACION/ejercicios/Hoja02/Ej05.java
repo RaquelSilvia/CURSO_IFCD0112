@@ -2,29 +2,24 @@
 
 import java.util.Scanner;
 
-public class Ej04 {
+public class Ej05 {
     public static void main(String[] arg) {
         Scanner tec = new Scanner(System.in);
 
-        int num, cant, 
+        int num, cant, contPos = 0; 
         System.out.print("¿Cuántos números vas a ingresar?: ");
-        cant = tec.nextIn();
+        cant = tec.nextInt();
 
-        while (num <= cant) {
+        for (int inicio = 1 ; inicio <= cant ; inicio ++ ) {
             System.out.println("Introduce números positivos y negativos: ");
-            if (num < 0) {
-
+            num = tec.nextInt();
+            
+            if (num > 0) {
+                contPos++;
+            }
         }
-
-        
-
-
-
-
-
-
-
-
+        System.out.println("Has ingresado " + contPos + " números positivos");
 
     }
+    
 }
