@@ -6,20 +6,12 @@
 public class Ej13 {
     public static void main(String[] arg) {
 
-        for (int ficha = 0; ficha <= 0; ficha++) {
-            System.out.println("------------");
-            for (int puntos = 0; puntos <= 6; puntos++) {
-                System.out.println(ficha + puntos + (ficha + " : " + puntos));
+        for (int ficha = 0; ficha <= 6; ficha++) {
+            System.out.println("------");
+            for (int puntos = ficha; puntos <= 6; puntos++) { // comienza en "ficha" para que no se repita
+                System.out.println(ficha + " : " + puntos);
 
             }
         }
-
-
-
-
-
-
-
-
     }
 }
