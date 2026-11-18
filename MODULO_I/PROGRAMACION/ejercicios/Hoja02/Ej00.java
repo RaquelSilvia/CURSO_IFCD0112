@@ -1,5 +1,5 @@
-// 0. Solicitar un numero entero positivo por consola e imprimir por pantalla los números
-// naturales hasta el número ingresado inclusive
+// 0. Solicitar un número entero positivo por consola e imprimir por pantalla los números
+// naturales hasta el número ingresado inclusive.
 
 import java.util.Scanner;
 
@@ -17,6 +17,5 @@ public class Ej00 {
             // cont++;
 
         }
-
     }
 }

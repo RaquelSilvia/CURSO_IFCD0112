@@ -1,6 +1,7 @@
+// 2. Dados los lados de un rectángulo, calcular su perímetro y su área.
+
 import java.util.Scanner;
 
-// Dados los lados de un rectángulo, calcular su perímetro y su área
 public class Ej02 {
     public static void main(String[] arg) {
         Scanner tec = new Scanner(System.in);

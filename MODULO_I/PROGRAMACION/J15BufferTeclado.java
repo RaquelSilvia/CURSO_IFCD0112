@@ -13,12 +13,5 @@ public class Ej15 {
 
         System.out.print("")
 
-
-
-
-
-
-
-
     }
 }

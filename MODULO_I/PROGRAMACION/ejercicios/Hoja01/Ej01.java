@@ -1,4 +1,4 @@
-//1. Dado un número cualquier por teclado, mostrar su valor absoluto.
+// 1. Dado un número cualquier por teclado, mostrar su valor absoluto.
 
 import java.util.Scanner;
 
@@ -10,7 +10,6 @@ public class Ej01 {
 
         System.out.print("Ingrese un número: ");
         num = tec.nextDouble();
-
 
         if (num > 0) {
             abs = num;

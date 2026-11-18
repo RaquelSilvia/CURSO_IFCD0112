@@ -1,4 +1,4 @@
-//4. Dados la base y altura de un triángulo, calcular su área. (b*a/2)
+// 4. Dados la base y altura de un triángulo, calcular su área. (b*a/2)
 
 import java.util.Scanner;
 

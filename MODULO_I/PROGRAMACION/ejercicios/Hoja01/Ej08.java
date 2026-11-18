@@ -1,4 +1,4 @@
-//8. Dados tres números, indicar el mayor y el menor valor de los tres.
+// 8. Dados tres números, indicar el mayor y el menor valor de los tres.
 
 import java.util.Scanner;
 
@@ -16,10 +16,8 @@ public class Ej08 {
         System.out.print("Ingrese un tercer número: ");
         num3 = tec.nextDouble();
 
-
         if (num1 > num2 && num1 > num3) {
             System.out.println("El número mayor es: " + num1);
-            
             if (num2 > num3) {
                 System.out.println("El número menor es: " + num3);
             } else {

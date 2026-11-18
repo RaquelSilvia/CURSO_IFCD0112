@@ -1,4 +1,4 @@
-//11. Hacer un algoritmo que permita Obtener la cantidad de horas, minutos y segundos de un
+// 11. Hacer un algoritmo que permita Obtener la cantidad de horas, minutos y segundos de un
 //tiempo dado en segundos.
 
 import java.util.Scanner;

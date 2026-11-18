@@ -1,4 +1,4 @@
-7. Dados dos números, indicar el mayor y el menor valor de los dos.
+// 7. Dados dos números, indicar el mayor y el menor valor de los dos.
 
 import java.util.Scanner;
 

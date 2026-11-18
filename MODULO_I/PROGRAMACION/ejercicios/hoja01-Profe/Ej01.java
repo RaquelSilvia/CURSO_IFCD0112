@@ -12,7 +12,7 @@ public class Ej01 {
         if (num >= 0) {
             abs = num;
         } else {
-            abs = -num;
+            abs = -num;    
         }
 
         System.out.println("|" + num + "|" + " = " + abs);

@@ -17,7 +17,6 @@ public class Ej01 {
             System.out.println(num);
             suma = suma + num; // suma += num;
             cont++;
-
         }
         System.out.println("La suma de los números es: " + suma);
     }

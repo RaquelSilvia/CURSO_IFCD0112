@@ -1,4 +1,4 @@
-//2. Dados los lados de un rectángulo, calcular su perímetro y su área.
+// 2. Dados los lados de un rectángulo, calcular su perímetro y su área.
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class Ej02 {
         base = tec.nextDouble();
 
         System.out.print("Ingresa la altura del rectángulo: ");
-        altura = tec.nextDouble();
+        altura = tec.nextDouble(); 
 
         perimetro = 2 * (base + altura);
         area = base * altura;
@@ -19,7 +19,5 @@ public class Ej02 {
         System.out.println("El perímetro del rectángulo es: " + perimetro);
         System.out.println("El área del rectángulo es: " + area);
 
-        
     }
-
 }

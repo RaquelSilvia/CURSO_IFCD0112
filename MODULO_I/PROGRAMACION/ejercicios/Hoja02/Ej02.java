@@ -12,13 +12,11 @@ public class Ej02 {
         num = tec.nextInt();
 
         while (cont <= num){
-        
             System.out.println("suma es : " + suma);
             System.out.println("contador es : " +cont);
             suma += cont;           
             cont++;
         }
-        
         System.out.println(suma);
     }
 }
