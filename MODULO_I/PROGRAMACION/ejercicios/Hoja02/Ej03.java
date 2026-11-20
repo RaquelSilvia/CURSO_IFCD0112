@@ -25,5 +25,5 @@ public class Ej03 {
             contador++;
         }
         System.out.println(mayor + " es mayor");
-    }
+    } 
 }

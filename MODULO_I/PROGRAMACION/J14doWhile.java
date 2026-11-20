@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ej14 {
+public class J14DoWhile {
     public static void main(String[] arg) {
         Scanner tec = new Scanner(System.in);
 
@@ -17,5 +17,5 @@ public class Ej14 {
         }
         System.out.println(0); // para que no continúe con la coma
     
-    }
+    } 
 }

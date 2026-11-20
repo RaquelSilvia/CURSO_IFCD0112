@@ -17,6 +17,6 @@ public class Ej02 {
             suma += cont;           
             cont++;
         }
-        System.out.println(suma);
+        System.out.println(suma); 
     }
 }

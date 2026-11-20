@@ -25,7 +25,7 @@ public class Ej19 {
 
             } else if (numDia % 7 == 4) {
                 System.out.println("Jueves ");
-
+            
             } else if (numDia % 7 == 5) {
                 System.out.println("Viernes ");
 

@@ -12,7 +12,7 @@ public class Ej02 {
         double num, primero = 0, ultimo = 0, mayor = 0, menor = 0;
         String respuesta ="";        
 
-        do {
+        do { 
             System.out.print("Ingrese un número real: ");
             num = tec.nextDouble();   
             //justo después de leer un double/int se salta el string si no ponemos el nextLine         

@@ -18,7 +18,7 @@ public class Ej03 {
             System.out.print("¿Cuál es mi número?: ");
             intento = tec.nextInt();
             cont++;
-            if (intento == num) {
+            if (intento == num) { 
                 acierto = true;
             } else if (intento < num) {
                 System.out.println("El " + intento + " es menor que mi número");

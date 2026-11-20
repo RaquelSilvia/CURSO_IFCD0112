@@ -17,7 +17,7 @@ public class Ej04 {
         System.out.print("Piensa un número entre " + min + " y " + max);
         System.out.println("Indica si he acertado con 0, si el propuesto es mayor con 1, o si es menor con -1");
 
-        do {
+        do { 
             intento = (min + max) / 2;
             System.out.println("Es el " + intento + "?: ");
             respuesta = tec.nextInt();  

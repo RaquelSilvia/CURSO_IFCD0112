@@ -20,20 +20,5 @@ public class Ej06 {
             num /= 10;
             inverso /= 10;
         }
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

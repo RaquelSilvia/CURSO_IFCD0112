@@ -15,7 +15,7 @@ public class Ej05b {
         euros = tec.nextDouble();
 
         do {
-            System.out.println(
+            System.out.println( 
                 """
                 0. Otro importe
                 1. Dólares

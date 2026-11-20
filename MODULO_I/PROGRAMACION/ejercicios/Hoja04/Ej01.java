@@ -17,7 +17,7 @@ public class Ej01 {
 
         do {
             System.out.print("Ingrese primer número: ");
-            num1 = tec.nextDouble();
+            num1 = tec.nextDouble(); 
             System.out.print("Ingrese segundo número: ");
             num2 = tec.nextDouble();
             tec.nextLine(); //limpiar buffer para después cargar un String

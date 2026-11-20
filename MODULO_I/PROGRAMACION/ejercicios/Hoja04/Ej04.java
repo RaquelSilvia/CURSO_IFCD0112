@@ -8,7 +8,7 @@ public class Ej04 {
     
         int num, cifras = 1000; // porque num es de 4
         System.out.print("Ingrese un número entero de 4 cifras: ");
-        num = tec.nextInt();
+        num = tec.nextInt(); 
         
         while (num != 0) {
             System.out.println(num / cifras); // muestra cifra izqda.

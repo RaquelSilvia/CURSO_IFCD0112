@@ -14,9 +14,9 @@ public class Ej01 {
         
         notaMayor = notaMenor = nota; 
 
-        while(nota >= 0) {
+        while (nota >= 0) {
             if (nota > notaMayor) {
-                notaMayor = nota;
+                notaMayor = nota; 
                 
             } else if (nota < notaMenor) {
                 notaMenor = nota;       
